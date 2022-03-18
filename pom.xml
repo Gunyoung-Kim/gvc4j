@@ -76,7 +76,6 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-starter-test</artifactId>
                 <version>${spring.boot.version}</version>
-                <scope>test</scope>
             </dependency>
 
             <!-- spring-security -->
@@ -85,7 +84,6 @@
                 <groupId>org.springframework.security</groupId>
                 <artifactId>spring-security-test</artifactId>
                 <version>${spring.security.version}</version>
-                <scope>test</scope>
             </dependency>
 
             <!-- kotlin -->
