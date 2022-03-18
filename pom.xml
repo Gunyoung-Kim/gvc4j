@@ -4,7 +4,7 @@
 
     <groupId>com.gunyoung.common</groupId>
     <artifactId>gvc4j</artifactId>
-    <version>0.0.5-SNAPSHOT</version>
+    <version>0.0.6-SNAPSHOT</version>
     <name>Gvc4j</name>
     <packaging>pom</packaging>
 
